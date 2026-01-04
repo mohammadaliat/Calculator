@@ -22,10 +22,10 @@ This project is an **early alpha pre-release**, focused on clean UI design, keyb
 ---
 
 ## 📥 How to Run
-1. Go to the **Releases** section.
-2. Download the latest `Calculator-Windows.zip`.
-3. Extract the ZIP file.
-4. Open the `bin` directory and run `Calculator.exe`.
+1. Download the `CalculatorApp.zip` from the **Assets** section.
+2. Right-click the ZIP file and select **Extract All**.
+3. Open the extracted folder.
+4. Double-click **Calculator.exe** to launch the application.
 
 ---
 
